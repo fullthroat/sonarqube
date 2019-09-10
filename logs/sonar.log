@@ -1,0 +1,144 @@
+--> Wrapper Started as Daemon
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+
+WrapperSimpleApp: Encountered an error running main: java.lang.IllegalStateException: SonarQube requires Java 11+ to run
+java.lang.IllegalStateException: SonarQube requires Java 11+ to run
+	at org.sonar.application.App.checkJavaVersion(App.java:93)
+	at org.sonar.application.App.start(App.java:56)
+	at org.sonar.application.App.main(App.java:98)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:240)
+	at java.lang.Thread.run(Thread.java:748)
+<-- Wrapper Stopped
+--> Wrapper Started as Daemon
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+
+WrapperSimpleApp: Encountered an error running main: java.lang.IllegalStateException: SonarQube requires Java 11+ to run
+java.lang.IllegalStateException: SonarQube requires Java 11+ to run
+	at org.sonar.application.App.checkJavaVersion(App.java:93)
+	at org.sonar.application.App.start(App.java:56)
+	at org.sonar.application.App.main(App.java:98)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:240)
+	at java.lang.Thread.run(Thread.java:748)
+<-- Wrapper Stopped
+--> Wrapper Started as Daemon
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+
+WrapperSimpleApp: Encountered an error running main: java.lang.IllegalStateException: SonarQube requires Java 11+ to run
+java.lang.IllegalStateException: SonarQube requires Java 11+ to run
+	at org.sonar.application.App.checkJavaVersion(App.java:93)
+	at org.sonar.application.App.start(App.java:56)
+	at org.sonar.application.App.main(App.java:98)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:240)
+	at java.lang.Thread.run(Thread.java:748)
+<-- Wrapper Stopped
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+
+WrapperSimpleApp: Encountered an error running main: java.lang.IllegalStateException: SonarQube requires Java 11+ to run
+java.lang.IllegalStateException: SonarQube requires Java 11+ to run
+	at org.sonar.application.App.checkJavaVersion(App.java:93)
+	at org.sonar.application.App.start(App.java:56)
+	at org.sonar.application.App.main(App.java:98)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:240)
+	at java.lang.Thread.run(Thread.java:748)
+<-- Wrapper Stopped
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+
+WrapperSimpleApp: Encountered an error running main: java.lang.IllegalStateException: SonarQube requires Java 11+ to run
+java.lang.IllegalStateException: SonarQube requires Java 11+ to run
+	at org.sonar.application.App.checkJavaVersion(App.java:93)
+	at org.sonar.application.App.start(App.java:56)
+	at org.sonar.application.App.main(App.java:98)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:240)
+	at java.lang.Thread.run(Thread.java:748)
+<-- Wrapper Stopped
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+2019.09.05 06:16:40 INFO  app[][o.s.a.AppFileSystem] Cleaning or creating temp directory /home/kaunain/sonarqube-7.9.1/temp
+2019.09.05 06:16:40 INFO  app[][o.s.a.es.EsSettings] Elasticsearch listening on /127.0.0.1:9001
+2019.09.05 06:16:40 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='es', ipcIndex=1, logFilenamePrefix=es]] from [/home/kaunain/sonarqube-7.9.1/elasticsearch]: /home/kaunain/sonarqube-7.9.1/elasticsearch/bin/elasticsearch
+2019.09.05 06:16:40 INFO  app[][o.s.a.SchedulerImpl] Waiting for Elasticsearch to be up and running
+OpenJDK 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+2019.09.05 06:16:40 INFO  app[][o.e.p.PluginsService] no modules loaded
+2019.09.05 06:16:40 INFO  app[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+ERROR: [1] bootstrap checks failed
+[1]: max virtual memory areas vm.max_map_count [65530] is too low, increase to at least [262144]
+2019.09.05 06:16:48 WARN  app[][o.s.a.p.AbstractManagedProcess] Process exited with exit value [es]: 78
+2019.09.05 06:16:48 INFO  app[][o.s.a.SchedulerImpl] Process[es] is stopped
+2019.09.05 06:16:48 INFO  app[][o.s.a.SchedulerImpl] SonarQube is stopped
+<-- Wrapper Stopped
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+2019.09.05 06:20:37 INFO  app[][o.s.a.AppFileSystem] Cleaning or creating temp directory /home/kaunain/sonarqube-7.9.1/temp
+2019.09.05 06:20:37 INFO  app[][o.s.a.es.EsSettings] Elasticsearch listening on /127.0.0.1:9001
+2019.09.05 06:20:37 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='es', ipcIndex=1, logFilenamePrefix=es]] from [/home/kaunain/sonarqube-7.9.1/elasticsearch]: /home/kaunain/sonarqube-7.9.1/elasticsearch/bin/elasticsearch
+2019.09.05 06:20:37 INFO  app[][o.s.a.SchedulerImpl] Waiting for Elasticsearch to be up and running
+OpenJDK 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+2019.09.05 06:20:37 INFO  app[][o.e.p.PluginsService] no modules loaded
+2019.09.05 06:20:37 INFO  app[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2019.09.05 06:20:44 INFO  app[][o.s.a.SchedulerImpl] Process[es] is up
+2019.09.05 06:20:44 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='web', ipcIndex=2, logFilenamePrefix=web]] from [/home/kaunain/sonarqube-7.9.1]: /usr/lib/jvm/jdk-12.0.2/bin/java -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djava.io.tmpdir=/home/kaunain/sonarqube-7.9.1/temp --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED -Xmx512m -Xms128m -XX:+HeapDumpOnOutOfMemoryError -Dhttp.nonProxyHosts=localhost|127.*|[::1] -cp ./lib/common/*:/home/kaunain/sonarqube-7.9.1/lib/jdbc/postgresql/postgresql-42.2.5.jar org.sonar.server.app.WebServer /home/kaunain/sonarqube-7.9.1/temp/sq-process18398677357433387152properties
+2019.09.05 06:21:12 INFO  app[][o.s.a.SchedulerImpl] Process[web] is up
+2019.09.05 06:21:12 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='ce', ipcIndex=3, logFilenamePrefix=ce]] from [/home/kaunain/sonarqube-7.9.1]: /usr/lib/jvm/jdk-12.0.2/bin/java -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djava.io.tmpdir=/home/kaunain/sonarqube-7.9.1/temp --add-opens=java.base/java.util=ALL-UNNAMED -Xmx512m -Xms128m -XX:+HeapDumpOnOutOfMemoryError -Dhttp.nonProxyHosts=localhost|127.*|[::1] -cp ./lib/common/*:/home/kaunain/sonarqube-7.9.1/lib/jdbc/postgresql/postgresql-42.2.5.jar org.sonar.ce.app.CeServer /home/kaunain/sonarqube-7.9.1/temp/sq-process13741026139012743864properties
+2019.09.05 06:21:15 INFO  app[][o.s.a.SchedulerImpl] Process[ce] is up
+2019.09.05 06:21:15 INFO  app[][o.s.a.SchedulerImpl] SonarQube is up
+--> Wrapper Started as Daemon
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+2019.09.09 07:18:27 INFO  app[][o.s.a.AppFileSystem] Cleaning or creating temp directory /home/kaunain/sonarqube-7.9.1/temp
+2019.09.09 07:18:27 INFO  app[][o.s.a.es.EsSettings] Elasticsearch listening on /127.0.0.1:9001
+2019.09.09 07:18:27 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='es', ipcIndex=1, logFilenamePrefix=es]] from [/home/kaunain/sonarqube-7.9.1/elasticsearch]: /home/kaunain/sonarqube-7.9.1/elasticsearch/bin/elasticsearch
+2019.09.09 07:18:27 INFO  app[][o.s.a.SchedulerImpl] Waiting for Elasticsearch to be up and running
+2019.09.09 07:18:28 INFO  app[][o.e.p.PluginsService] no modules loaded
+2019.09.09 07:18:28 INFO  app[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+OpenJDK 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+2019.09.09 07:18:42 INFO  app[][o.s.a.SchedulerImpl] Process[es] is up
+2019.09.09 07:18:42 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='web', ipcIndex=2, logFilenamePrefix=web]] from [/home/kaunain/sonarqube-7.9.1]: /usr/lib/jvm/jdk-12.0.2/bin/java -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djava.io.tmpdir=/home/kaunain/sonarqube-7.9.1/temp --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED -Xmx512m -Xms128m -XX:+HeapDumpOnOutOfMemoryError -Dhttp.nonProxyHosts=localhost|127.*|[::1] -cp ./lib/common/*:/home/kaunain/sonarqube-7.9.1/lib/jdbc/postgresql/postgresql-42.2.5.jar org.sonar.server.app.WebServer /home/kaunain/sonarqube-7.9.1/temp/sq-process13030825583618988047properties
+2019.09.09 07:18:57 INFO  app[][o.s.a.SchedulerImpl] Process[web] is up
+2019.09.09 07:18:57 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='ce', ipcIndex=3, logFilenamePrefix=ce]] from [/home/kaunain/sonarqube-7.9.1]: /usr/lib/jvm/jdk-12.0.2/bin/java -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djava.io.tmpdir=/home/kaunain/sonarqube-7.9.1/temp --add-opens=java.base/java.util=ALL-UNNAMED -Xmx512m -Xms128m -XX:+HeapDumpOnOutOfMemoryError -Dhttp.nonProxyHosts=localhost|127.*|[::1] -cp ./lib/common/*:/home/kaunain/sonarqube-7.9.1/lib/jdbc/postgresql/postgresql-42.2.5.jar org.sonar.ce.app.CeServer /home/kaunain/sonarqube-7.9.1/temp/sq-process4576228552089840081properties
+2019.09.09 07:19:06 INFO  app[][o.s.a.SchedulerImpl] Process[ce] is up
+2019.09.09 07:19:06 INFO  app[][o.s.a.SchedulerImpl] SonarQube is up
